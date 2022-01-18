@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ems-frontend/static/css/main.47dd5d78.css",
-    "main.js": "/ems-frontend/static/js/main.734f1abe.js",
+    "main.js": "/ems-frontend/static/js/main.9541a4b8.js",
     "index.html": "/ems-frontend/index.html",
     "main.47dd5d78.css.map": "/ems-frontend/static/css/main.47dd5d78.css.map",
-    "main.734f1abe.js.map": "/ems-frontend/static/js/main.734f1abe.js.map"
+    "main.9541a4b8.js.map": "/ems-frontend/static/js/main.9541a4b8.js.map"
   },
   "entrypoints": [
     "static/css/main.47dd5d78.css",
-    "static/js/main.734f1abe.js"
+    "static/js/main.9541a4b8.js"
   ]
 }
