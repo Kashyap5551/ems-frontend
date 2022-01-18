@@ -7,7 +7,10 @@ const Header = () => {
       <header>
         <nav className="navbar navbar-expand-md navbar-dark bg-dark">
           <div>
-            <a href={<Link to="/" />} className="navbar-brand m-4">
+            <a
+              href="https://ems-appication-frontend.herokuapp.com/"
+              className="navbar-brand m-4"
+            >
               Employee Manager
             </a>
           </div>
