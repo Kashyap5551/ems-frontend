@@ -1,7 +1,7 @@
 {
   "name": "employee-manager",
   "version": "0.1.0",
-  "homepage": "https://kashyap5551.github.io/ems-frontend",
+  "homepage": "https://kashyap5551.github.io/ems-frontend/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
